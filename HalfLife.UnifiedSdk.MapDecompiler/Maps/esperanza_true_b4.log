@@ -1,0 +1,101 @@
+Job started on "2024-07-06T19:20:00.5298741-10:00"
+Loading map from E:\SteamLibrary\steamapps\common\Half-Life\ts\test\H9\Esperanza\maps\esperanza_true_b4.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.176
+Decompiling map using Tree strategy
+Merging brushes
+Optimizing for texture placement
+brush size: <-3229, -3452, -576> to <2821, 3401, 1030>
+SplitBrush: tiny volume after clip
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+texturing brushes
+4880 brushes
+1461 brushes merged
+converting brushes to map brushes
+3419 brushes
+3861 map brushes
+56 clip brushes
+Time elapsed: 00.00:00:04.639
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\esperanza_true_b4.map
+Time elapsed: 00.00:00:04.761
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\esperanza_true_b4_generated.wad
+Adding texture +0~light2a
+Adding texture +1TV1
+Adding texture +2TV1
+Adding texture +3TV1
+Adding texture 3vault
+Adding texture aaatrigger
+Adding texture brock_2a
+Adding texture cem_wallgen
+Adding texture concreteX3
+Adding texture congo2
+Adding texture dirt
+Adding texture fiftsfile1b
+Adding texture floor8c
+Adding texture HOWOOD1
+Adding texture mattress1
+Adding texture mattress3
+Adding texture mattress4
+Adding texture metal4
+Adding texture metaldo
+Adding texture plantsback1
+Adding texture prisonwall11
+Adding texture p_wall7_1b
+Adding texture rtbrickle_3
+Adding texture rtconk_4a
+Adding texture rtcorr_3
+Adding texture sidewalk
+Adding texture sidewalk2
+Adding texture sidewalk3
+Adding texture steptop_mtl2
+Adding texture wall_concrete01
+Adding texture wood-signs92
+Adding texture wp-3
+Adding texture wp-holeb
+Adding texture {cem_office4
+Adding texture {fence
+Adding texture {grafitti2
+Adding texture {triballadder
+Adding texture null
+Adding texture +0TV1
+Adding texture concrete14
+Adding texture cyberele
+Adding texture door3
+Adding texture e6bmetal2
+Adding texture plasvent
+Adding texture ps_sandbag1
+Adding texture rock-grassbot
+Adding texture rocks7
+Adding texture rtgraph-5a
+Adding texture rt_corrlt
+Adding texture rustymetal
+Adding texture trashbg2
+Adding texture walljunk1d
+Adding texture wallred1b
+Adding texture wallreno1a
+Adding texture wood5
+Adding texture wp-edge2
+Adding texture {curtains1
+Adding texture {snow_wire
+Adding texture {vine
+Adding texture hope_brandt
+Adding texture hope_nuvias
+Adding texture hope_pilsn
+Adding texture hope_policia
+Adding texture hope_taque
+Adding texture {hope_romero
+Added 65 textures
+Time elapsed: 00.00:00:04.807
+Total time elapsed: 00.00:00:04.807

@@ -1,0 +1,205 @@
+Job started on "2024-07-07T08:40:41.2148380-10:00"
+Loading map from E:\SteamLibrary\steamapps\common\Half-Life\ts\test\SimiValley\maps\simi_valley_final.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.193
+Decompiling map using Tree strategy
+Merging brushes
+Optimizing for texture placement
+brush size: <-4000, -4064, -336> to <2080, 4048, 1120>
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+texturing brushes
+6617 brushes
+1870 brushes merged
+converting brushes to map brushes
+4747 brushes
+5409 map brushes
+20 clip brushes
+Time elapsed: 00.00:00:12.218
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\simi_valley_final.map
+Time elapsed: 00.00:00:12.379
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\simi_valley_final_generated.wad
+Adding texture +0mirror
+Adding texture +amirror
+Adding texture 7471
+Adding texture 7472
+Adding texture 747chair01
+Adding texture 747inside5
+Adding texture 747pilotchair04
+Adding texture aaatrigger
+Adding texture black
+Adding texture fifties_dr1
+Adding texture laptop2
+Adding texture laptop3
+Adding texture poster14
+Adding texture sink
+Adding texture sky
+Adding texture {blue
+Adding texture gp_bark
+Adding texture gp_cabint1
+Adding texture gp_cofeside
+Adding texture gp_coffemkr
+Adding texture gp_dryer
+Adding texture gp_gas
+Adding texture gp_micrwav
+Adding texture gp_mpdsign
+Adding texture gp_tile
+Adding texture gp_washrtop
+Adding texture gp_washscrn
+Adding texture !howater
+Adding texture bmw_mr_chassis
+Adding texture bmw_mr_desk
+Adding texture bmw_mr_doort
+Adding texture btiles_wall02
+Adding texture ex_roof2
+Adding texture fap-machine07
+Adding texture fap-machine10
+Adding texture fap-picture03
+Adding texture fap-picture04
+Adding texture fap-picture07
+Adding texture fap-picture12
+Adding texture gp_bathroomtile
+Adding texture gp_cofetop
+Adding texture gp_credit_grey
+Adding texture gp_laptop1337
+Adding texture gp_pic2wall
+Adding texture gp_simicredits
+Adding texture gp_socrbotleft
+Adding texture gp_socrbotrght
+Adding texture gp_socrtopleft
+Adding texture gp_socrtoprght
+Adding texture gp_storomatic
+Adding texture gp_trkback
+Adding texture gp_trkfrt
+Adding texture gp_trkside
+Adding texture gp_tvspeaker
+Adding texture gp_tvsterio
+Adding texture gp_wallin1
+Adding texture gp_wallin2
+Adding texture gp_wallin4
+Adding texture gp_wallout1
+Adding texture gp_willin3
+Adding texture hocouch
+Adding texture hocouch2
+Adding texture hokitchenmetal
+Adding texture homachine
+Adding texture hoowenside
+Adding texture hoowentop
+Adding texture hopaint3
+Adding texture howall4
+Adding texture howall7
+Adding texture howheel
+Adding texture mp_insidedoor
+Adding texture mp_phone
+Adding texture pkf_concrete1
+Adding texture pkf_concrete5a
+Adding texture pkf_infloor1a
+Adding texture pkf_inwall2
+Adding texture pkf_mud2
+Adding texture pkf_planks1a
+Adding texture pkf_planks1b
+Adding texture pkf_road2a
+Adding texture pkf_roof1a
+Adding texture pkf_tiles1a
+Adding texture pkf_tiles2a
+Adding texture pkf_tilewall1b
+Adding texture pkf_tilewall1c
+Adding texture pkf_wall1a
+Adding texture pkf_woodfloor1
+Adding texture pk_chcomwood3b
+Adding texture {nets2
+Adding texture {pkf_fence1
+Adding texture {pkf_fence2c
+Adding texture {pkf_shopgrate1
+Adding texture {pkf_tree1b
+Adding texture 3dm_tvset
+Adding texture gp_711bordfrt
+Adding texture gp_711sign
+Adding texture gp_711signfrt
+Adding texture gp_711slurpee
+Adding texture gp_comingsoon
+Adding texture gp_dgaia
+Adding texture gp_door1
+Adding texture gp_door1side
+Adding texture gp_fountdrink
+Adding texture gp_freezer1
+Adding texture gp_fridgebeer
+Adding texture gp_fridgecoke
+Adding texture gp_innboarder
+Adding texture gp_inncounter
+Adding texture gp_inndrinkside
+Adding texture gp_innflr
+Adding texture gp_innlogo
+Adding texture gp_innordersign
+Adding texture gp_innred
+Adding texture gp_innspeaker
+Adding texture gp_inntilered
+Adding texture gp_inntilewhite
+Adding texture gp_rpus
+Adding texture gp_shelf1
+Adding texture gp_shelf2
+Adding texture gp_svpdsign
+Adding texture gp_whitelight
+Adding texture hs_bush1
+Adding texture hs_dirt1
+Adding texture hs_driveway1
+Adding texture hs_garaged1
+Adding texture hs_lawn2
+Adding texture hs_roof1
+Adding texture hs_screendoor1
+Adding texture hs_side1
+Adding texture hs_side4
+Adding texture hs_window1
+Adding texture hs_window2
+Adding texture hs_window3
+Adding texture hs_window4
+Adding texture hs_window5
+Adding texture oldWood
+Adding texture rockWall
+Adding texture rWallgBrick
+Adding texture sideLight
+Adding texture tik_fence1
+Adding texture t_crate07
+Adding texture t_crate08
+Adding texture t_crate200001
+Adding texture t_crate210001
+Adding texture t_door09
+Adding texture t_door10
+Adding texture t_wall26
+Adding texture t_wood01
+Adding texture t_wood02
+Adding texture XEN1_DOOR3
+Adding texture XEN1_TECH1
+Adding texture XEN1_TECH16
+Adding texture XEN1_WOOD1
+Adding texture xen2_door12
+Adding texture xen2_kitchen1
+Adding texture xen2_kitchen10
+Adding texture xen2_kitchen11
+Adding texture xen2_kitchen12
+Adding texture xen2_kitchen4
+Adding texture xen2_kitchen5a
+Adding texture xen2_kitchen9
+Adding texture {gp_lshirtbak
+Adding texture {gp_lshirtfrt
+Adding texture {gp_shirtbak
+Adding texture {gp_shirtfrt
+Adding texture {gp_sweatbak
+Adding texture {gp_sweatfrt
+Adding texture {hs_busha_1
+Adding texture {wh_treeline1
+Added 169 textures
+Time elapsed: 00.00:00:12.425
+Total time elapsed: 00.00:00:12.425

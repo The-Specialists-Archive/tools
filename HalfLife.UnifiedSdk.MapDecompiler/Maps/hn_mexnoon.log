@@ -1,0 +1,21 @@
+Job started on "2024-07-13T10:58:45.9861977-10:00"
+Loading map from E:\SteamLibrary\steamapps\common\Half-Life\wantedsp\maps\hn_mexnoon.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.102
+Decompiling map using Tree strategy
+Merging brushes
+Optimizing for texture placement
+brush size: <-1376, -800, -352> to <752, 640, 96>
+SplitBrush: tiny volume after clip
+CreateBrushes_r: WARNING node not splitting brush
+texturing brushes
+1353 brushes
+439 brushes merged
+converting brushes to map brushes
+914 brushes
+1058 map brushes
+9 clip brushes
+Time elapsed: 00.00:00:00.841
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\hn_mexnoon.map
+Time elapsed: 00.00:00:00.893
+Total time elapsed: 00.00:00:00.929

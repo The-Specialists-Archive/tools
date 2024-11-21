@@ -1,0 +1,120 @@
+Job started on "2024-07-06T19:55:34.0217340-10:00"
+Loading map from E:\SteamLibrary\steamapps\common\Half-Life\ts\test\H9\Xenon3\maps\xenoncity_b3v1.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.099
+Decompiling map using Tree strategy
+Merging brushes
+Optimizing for texture placement
+brush size: <-2453, -2291, -1025> to <3294, 2678, 2912>
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: no split winding
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on front
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: tiny volume after clip
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: tiny volume after clip
+CreateBrushes_r: WARNING node not splitting brush
+SplitBrush: only on back
+CreateBrushes_r: WARNING node not splitting brush
+texturing brushes
+4231 brushes
+939 brushes merged
+converting brushes to map brushes
+3292 brushes
+3782 map brushes
+47 clip brushes
+Time elapsed: 00.00:00:03.172
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\xenoncity_b3v1.map
+Time elapsed: 00.00:00:03.278
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\xenoncity_b3v1_generated.wad
+Adding texture bigcyberdoor
+Adding texture bio00009
+Adding texture cyberbar
+Adding texture cyberbart
+Adding texture cyberdoor
+Adding texture cyberdoor4
+Adding texture cyberele
+Adding texture cyberfloor
+Adding texture cybermon
+Adding texture cyberpc
+Adding texture cyberwall1
+Adding texture cyberwall2
+Adding texture cyberwall3
+Adding texture cyberwall4
+Adding texture cyberwall5
+Adding texture cyberwall6
+Adding texture cyberwallpanel
+Adding texture cypermonitor
+Adding texture cypermonitorblu
+Adding texture dk_wall1
+Adding texture e6bmetal
+Adding texture e6bmetal2
+Adding texture flr_panel02
+Adding texture force
+Adding texture regwall2
+Adding texture screens
+Adding texture {acidgrid03
+Adding texture {CA_Girder
+Adding texture aaatrigger
+Adding texture ammo_gunboard2
+Adding texture black
+Adding texture cr_shackroof2
+Adding texture freezer_bx6
+Adding texture glass_a_03
+Adding texture gp_fridgebeer
+Adding texture hocar1top
+Adding texture hoowenside
+Adding texture hoowentop
+Adding texture HOWOOD1
+Adding texture marb062
+Adding texture misc_ATM
+Adding texture NULL
+Adding texture ORIGIN
+Adding texture pkf_concrete1
+Adding texture sink
+Adding texture compactred
+Adding texture cubicle
+Adding texture get_work
+Adding texture hMarb_surfaced3
+Adding texture sidewlk1
+Adding texture streetglass
+Adding texture xGREEN
+Adding texture xWHITE
+Adding texture cosmo
+Adding texture door2
+Adding texture Lenore.
+Adding texture mattkay
+Adding texture mattress3
+Adding texture mattress4
+Adding texture theowl
+Adding texture {grafitti2
+Adding texture {grafitti3
+Adding texture {xc_cp1
+Adding texture {xc_cp2
+Adding texture {xc_credits
+Adding texture {xc_enjoy
+Adding texture {xc_gear
+Adding texture {xc_guns
+Adding texture {xc_level1
+Adding texture {xc_level2
+Adding texture {xc_level3
+Adding texture {xc_massage
+Adding texture {xc_skybar
+Adding texture {xc_uncle
+Added 74 textures
+Time elapsed: 00.00:00:03.282
+Total time elapsed: 00.00:00:03.282

@@ -1,0 +1,66 @@
+Job started on "2024-07-09T21:48:34.6716711-10:00"
+Loading map from E:\SteamLibrary\steamapps\common\Half-Life\ts\maps\ctb_deadheat.bsp
+Deserializing BSP data
+Time elapsed: 00.00:00:00.122
+Decompiling map using Tree strategy
+Merging brushes
+Optimizing for texture placement
+brush size: <-1888, -3680, -352> to <1888, 3680, 512>
+texturing brushes
+1651 brushes
+675 brushes merged
+converting brushes to map brushes
+976 brushes
+1088 map brushes
+18 clip brushes
+Time elapsed: 00.00:00:01.134
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\ctb_deadheat.map
+Time elapsed: 00.00:00:01.180
+Writing E:\3D stuff\HL Tools\HalfLife.UnifiedSdk.MapDecompiler\Maps\ctb_deadheat_generated.wad
+Adding texture dm_blue_stripes
+Adding texture dm_c3a1_w5blu
+Adding texture dm_c3a1_w5red
+Adding texture dm_c3a1_white
+Adding texture dm_red_stripes
+Adding texture mp_garagedoor3a
+Adding texture mp_metcontain03
+Adding texture mp_metcontain04
+Adding texture mp_metcontain05
+Adding texture mp_metcontain06
+Adding texture mp_woodcrate1
+Adding texture sh_crete_1
+Adding texture aaatrigger
+Adding texture null
+Adding texture origin
+Adding texture PRXCNCRT14C
+Adding texture PRXCNCRT16A
+Adding texture PRXCNCRT5B
+Adding texture PRXCNCRT9E
+Adding texture PRXDOOR4
+Adding texture PRXFLR1D
+Adding texture PRXMETALWALL7
+Adding texture PRXOUTMETAL2A
+Adding texture PRXOUTROCK2A
+Adding texture PRXOUTSAND1C
+Adding texture PRXOUTSAND4B
+Adding texture PRXOUTWALL4A
+Adding texture {PRXLADDER1B
+Adding texture {PRXLADDER1C
+Adding texture {PRXRAIL1A
+Adding texture clip
+Adding texture pkf_concrete5a
+Adding texture sg_kkgril
+Adding texture sg_light1b
+Adding texture sg_pktunroad
+Adding texture sg_step
+Adding texture sky
+Adding texture +0~fifties_lgt2
+Adding texture +a~fifties_lgt2
+Adding texture black
+Adding texture c3a1_w3b
+Adding texture c3a1_w5a
+Adding texture {fence3
+Adding texture {grate4a
+Added 44 textures
+Time elapsed: 00.00:00:01.219
+Total time elapsed: 00.00:00:01.219
